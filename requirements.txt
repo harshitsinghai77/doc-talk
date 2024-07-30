@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+langchain
+langchain-community
+pydantic_settings
+boto3
+streamlit
+pypdf
+faiss-cpu
+langchain-aws
